@@ -60,7 +60,6 @@ import dagger.Provides;
 import io.reactivex.disposables.CompositeDisposable;
 
 /**
- *
  * 在@Module 中,我们定义的方法用这个注解@Provides,用于告诉 Dagger 我们需要构造实例并提供依赖.所有的Provide方法必须属于Module
  *
  * 标注 是一个模块，里面实现了一些提供实例的构造，后面使用Compoent来将这些链接起来
