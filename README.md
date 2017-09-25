@@ -1,36 +1,11 @@
-# Android MVP Architecture: Sample App
+# Android MVP Architecture: Sample App https://mindorks.com/open-source-projects by mindorks
 [![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
-This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase
-<p align="center">
-  <img src="https://janishar.github.io/images/mvp-app-pics/mvp-login.png" width="250">
-  <img src="https://janishar.github.io/images/mvp-app-pics/main-view.png" width="250">
-  <img src="https://janishar.github.io/gifs/mvp-app.gif" width="250">
-</p>
-<br>
-<p align="center">
-  <img src="https://janishar.github.io/images/mvp-app-pics/mvp-drawer.png" width="200">
-  <img src="https://janishar.github.io/images/mvp-app-pics/mvp-rating.png" width="200">
-  <img src="https://janishar.github.io/images/mvp-app-pics/mvp-feed.png" width="200">
-  <img src="https://janishar.github.io/images/mvp-app-pics/mvp-empty-state.png" width="200">
-</p>
-<br>
-<br>
 
 # Architecture Blueprint
 ![Blueprint](https://janishar.github.io/images/mvp-app-pics/mvp-arch.png)
 <br>
-
-# Project Structure
-![Structure](https://janishar.github.io/images/mvp-app-pics/mvp-project-structure-diagram.png)
-<br>
-
-# Read the below listed articles. They describe the MVP concepts and the Project structure.
-1. [MVP: Part 1](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40#.lkml1yggq)
-2. [MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.dge0wl8rl)
-3. [MVP: Part 3](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-3-dialog-viewpager-and-7bdfab86aabb)
-4. [Extension with Interactors and Repositories](https://blog.mindorks.com/android-mvp-architecture-extension-with-interactors-and-repositories-bd4b51972339)
 
 #### The app has following packages:
 1. **data**: It contains all the data accessing and manipulating components.
@@ -63,33 +38,3 @@ This repository contains a detailed sample app that implements MVP architecture 
 9. [RxJava Anatomy: What is RxJava, how RxJava is designed, and how RxJava works.](https://blog.mindorks.com/rxjava-anatomy-what-is-rxjava-how-rxjava-is-designed-and-how-rxjava-works-d357b3aca586)
 10. [Powerful Android ORM: greenDAO 3 Tutorial](https://mindorks.com/blog/powerful-android-orm-greendao-3-tutorial)
 
-### Playstore App of Mindorks build on this MVP architecture
-[Correctify: An English Editing and Learning app](https://play.google.com/store/apps/details?id=com.mindorks.correctify)
-
-### Looking for MVVM Architecture - [Check here](https://github.com/MindorksOpenSource/android-mvvm-architecture)
-
-### Mindorks open source projects
-[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
-
-### How do I use this project?
-This is a boilerplate project aimed to help bootstrap new Android MVP Applications. Feel free to fork this application or use [AndroidStarters](http://androidstarters.com/) to create new app using this boilerplate.
-
-### License
-```
-   Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
-
-### Contributing to Android MVP Architecture
-Just make pull request. You are in!
